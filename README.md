@@ -4,6 +4,7 @@
 Common code for the Relational Databases and Full Stack Fundamentals courses
 
 
+
 1. Install vagrant and virtual box
 2. Change directory to the vagrant directory in git bash for windows
 3.Run Vagrant up 
@@ -14,3 +15,5 @@ Common code for the Relational Databases and Full Stack Fundamentals courses
 8. After add few post add the below post into box.  
         ');delete from posts;--
 9. All the post gets deleted.
+10. Solution to SQl Injection attack. use tuple instead os string concat
+ c.execute("INSERT into posts (content) VALUES (%s)" , (content,))
