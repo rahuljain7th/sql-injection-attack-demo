@@ -1,4 +1,4 @@
-Example of SQL Injection ATTACK code
+#Example of SQL Injection ATTACK code
 =============
 
 Common code for the Relational Databases and Full Stack Fundamentals courses
