@@ -2,6 +2,8 @@
 =============
 
 Common code for the Relational Databases and Full Stack Fundamentals courses
+
+
 1. Install vagrant and virtual box
 2. Change directory to the vagrant directory in git bash for windows
 3.Run Vagrant up 
